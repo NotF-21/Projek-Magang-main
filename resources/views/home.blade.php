@@ -83,7 +83,7 @@
                         </div>
                         <h4 class="mb-3">Perawatan Rawat Inap</h4>
                         <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="">
+                        <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/rawat-inap')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -95,7 +95,7 @@
                         </div>
                         <h4 class="mb-3">Perawatan Rawat Jalan</h4>
                         <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="">
+                        <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/rawat-jalan')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -107,7 +107,7 @@
                         </div>
                         <h4 class="mb-3">Vaksinasi</h4>
                         <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="">
+                        <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/vaksinasi')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -119,7 +119,7 @@
                         </div>
                         <h4 class="mb-3">Uji Laboratorium</h4>
                         <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="">
+                        <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/uji-laboratorium')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -131,7 +131,7 @@
                         </div>
                         <h4 class="mb-3">Poli Gigi</h4>
                         <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="">
+                        <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/poligigi')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
