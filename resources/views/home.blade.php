@@ -118,7 +118,7 @@
                             <i class="fa fa-2x fa-microscope text-white"></i>
                         </div>
                         <h4 class="mb-3">Uji Laboratorium</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0">Uji darah dan dapatkan hasilnya di Laboratorium kami</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/uji-laboratorium')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
