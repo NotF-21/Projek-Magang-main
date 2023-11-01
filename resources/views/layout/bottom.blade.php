@@ -11,9 +11,9 @@
                 <h4 class="d-inline-block text-light text-uppercase border-bottom border-5 border-light border-secondary mb-4">Link Cepat</h4>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-light mb-2" href="{{url('/')}}"><i class="fa fa-angle-right me-2"></i>Beranda</a>
-                    <a class="text-light mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Tentang Kami</a>
-                    <a class="text-light mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Our Services</a>
-                    <a class="text-light mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Meet The Team</a>
+                    <a class="text-light mb-2" href="{{url('tentang-kami')}}"><i class="fa fa-angle-right me-2"></i>Tentang Kami</a>
+                    <a class="text-light mb-2" href="{{url('/')}}#layanan"><i class="fa fa-angle-right me-2"></i>Our Services</a>
+                    <a class="text-light mb-2" href="{{url('tentang-kami')}}"><i class="fa fa-angle-right me-2"></i>Meet The Team</a>
                     <a class="text-light" href="{{url('hubungi-kami')}}"><i class="fa fa-angle-right me-2"></i>Hubungi Kami</a>
                 </div>
             </div>
