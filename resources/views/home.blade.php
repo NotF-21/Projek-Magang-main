@@ -56,7 +56,7 @@
         </div>
     </div>
 
-    <div class="container-fluid py-5">
+    <div class="container-fluid py-5" id="layanan">
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
                 <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Layanan Medis</h5>
@@ -117,7 +117,7 @@
                             <i class="fa fa-2x fa-microscope text-white"></i>
                         </div>
                         <h4 class="mb-3">Uji Laboratorium</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0">Uji darah dan dapatkan hasilnya di Laboratorium kami</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/uji-laboratorium')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -129,7 +129,7 @@
                             <i class="fa fa-2x fa-solid fa-tooth text-white"></i>
                         </div>
                         <h4 class="mb-3">Poli Gigi</h4>
-                        <p class="m-0">Kasd dolor no lorem nonumy sit labore tempor at justo rebum rebum stet, justo elitr dolor amet sit</p>
+                        <p class="m-0">Dapatkan Layanan Poligigi untuk merawat gigi Anda</p>
                         <a class="btn btn-lg btn-primary rounded-pill" href="{{url('/layanan/poligigi')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
