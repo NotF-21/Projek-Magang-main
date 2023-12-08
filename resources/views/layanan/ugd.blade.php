@@ -47,8 +47,6 @@
         function tabGal(imgs) {
             // Get the expanded image
             var expandImg = document.getElementById("expandedImg");
-            // Get the image text
-            var imgText = document.getElementById("imgtext");
 
             var sl = imgs.src.slice(-5);
             sl = sl.slice(0,1);
