@@ -12,8 +12,8 @@
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-light mb-2" href="{{url('/')}}"><i class="fa fa-angle-right me-2"></i>Beranda</a>
                     <a class="text-light mb-2" href="{{url('tentang-kami')}}"><i class="fa fa-angle-right me-2"></i>Tentang Kami</a>
-                    <a class="text-light mb-2" href="{{url('/layanan/rawat-jalan')}}"><i class="fa fa-angle-right me-2"></i>Our Services</a>
-                    <a class="text-light mb-2" href="#"><i class="fa fa-angle-right me-2"></i>Meet The Team</a>
+                    <a class="text-light mb-2" href="{{url('/layanan/rawat-jalan')}}"><i class="fa fa-angle-right me-2"></i>Layanan Kami</a>
+                    <a class="text-light mb-2" href="{{url('tim-medis')}}"><i class="fa fa-angle-right me-2"></i>Temui Tim Kami</a>
                     <a class="text-light" href="{{url('hubungi-kami')}}"><i class="fa fa-angle-right me-2"></i>Hubungi Kami</a>
                 </div>
             </div>

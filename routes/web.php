@@ -20,6 +20,8 @@ Route::get('/hubungi-kami', [HomeController::class, 'getHubungi'])->name('get-hu
 
 Route::get('/tentang-kami', [HomeController::class, 'getTentang'])->name('get-tentang');
 
+Route::get('/tim-medis', [HomeController::class, 'getTim'])->name('get-tim');
+
 Route::group(['prefix' => 'layanan'],function(){
     Route::get('unit-gawat-darurat', [HomeController::class, 'getUGD'])->name('ugd');
     Route::get('rawat-inap', [HomeController::class, 'getri'])->name('ri');

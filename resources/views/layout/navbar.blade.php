@@ -22,7 +22,7 @@
                             <a href="{{url('/layanan/uji-laboratorium')}}" class="dropdown-item">Uji Laboratorium</a>
                         </div>
                     </div>
-                    <a href="{{url('tentang-kami')}}" class="nav-item nav-link {{ Request::url() == url('/tentang-kami') ? 'active' : '' }}">Tim Medis</a>
+                    <a href="{{url('tim-medis')}}" class="nav-item nav-link {{ Request::url() == url('/tim-medis') ? 'active' : '' }}">Tim Medis</a>
                     <a href="{{url('hubungi-kami')}}" class="nav-item nav-link {{ Request::url() == url('/hubungi-kami') ? 'active' : '' }}">Hubungi Kami</a>
                 </div>
             </div>

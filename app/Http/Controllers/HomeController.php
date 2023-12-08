@@ -42,4 +42,8 @@ class HomeController extends Controller
     public function getLab() {
         return view('layanan.lab');
     }
+
+    public function getTim() {
+        return view('team');
+    }
 }
