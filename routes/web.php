@@ -30,3 +30,7 @@ Route::group(['prefix' => 'layanan'],function(){
     Route::get('vaksinasi', [HomeController::class, 'getv'])->name('v');
     Route::get('uji-laboratorium', [HomeController::class, 'getLab'])->name('lab');
 });
+
+Route::get('/{any}', function () {
+    return redirect()->route('get-home');
+})->where('any', '.*');
