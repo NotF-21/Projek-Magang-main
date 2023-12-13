@@ -4,7 +4,7 @@
 @section('content')
     @include('layout.navbar')
 
-    <div class="container-fluid py-5 mb-5 hero-header">
+    <div class="container-fluid py-5 mb-4 hero-header">
         <div class="container py-5">
             <div class="row justify-content-end">
                 <div class="col-lg-8 text-center text-lg-start">
@@ -15,7 +15,7 @@
         </div>
     </div>
 
-    <div class="container-fluid py-3 px-5">
+    <div class="container-fluid py-3 px-5 mb-4">
         <div class="row mb-4">
             <div class="col-12 justify-content-center d-flex">
                 <img src="{{asset("images/tentang1.jpg")}}" alt="" width="50%">
