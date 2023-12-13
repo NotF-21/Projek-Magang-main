@@ -47,6 +47,8 @@ class URLAutoCorrecter
 
         if ($bestSimilarity >= $similarityThreshold && $currentPath !== $similarPath) {
             return redirect($similarPath);
+        } else {
+            return redirect()->route('get-home');
         }
 
         return $next($request);
