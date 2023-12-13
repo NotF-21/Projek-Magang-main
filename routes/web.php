@@ -31,6 +31,6 @@ Route::group(['prefix' => 'layanan'],function(){
     Route::get('uji-laboratorium', [HomeController::class, 'getLab'])->name('lab');
 });
 
-Route::get('/{any}', function () {
+Route::middleware('url.autocorrect')->get('/{any}', function () {
     return redirect()->route('get-home');
 })->where('any', '.*');
