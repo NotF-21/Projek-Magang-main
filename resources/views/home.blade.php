@@ -63,7 +63,7 @@
                 <h1 class="display-4">Layanan yang Kami Sediakan</h1>
             </div>
             <div class="row my-5">
-                <div class="col-lg-4 col-md-6 mb-5">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user-md text-white"></i>
@@ -75,7 +75,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-procedures text-white"></i>
@@ -87,7 +87,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-stethoscope text-white"></i>
@@ -99,7 +99,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-pills text-white"></i>
@@ -111,7 +111,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-microscope text-white"></i>
@@ -123,7 +123,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-solid fa-tooth text-white"></i>
