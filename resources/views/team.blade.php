@@ -18,12 +18,12 @@
     <div class="container-fluid py-5" id="layanan">
         <div class="container">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
-                <h5 class="d-inline-block text-primary text-uppercase border-bottom border-5">Tim Kami</h5>
+                <h5 class="d-inline-block text-success text-uppercase border-bottom border-5">Tim Kami</h5>
                 <h1 class="display-4">Wajah Staf Kami</h1>
             </div>
             <div class="row my-5">
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user text-white"></i>
                         </div>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user text-white"></i>
                         </div>
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user text-white"></i>
                         </div>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user text-white"></i>
                         </div>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-user text-white"></i>
                         </div>
@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
                             <i class="fa fa-2x fa-solid fa-tooth text-white"></i>
                         </div>

@@ -3,6 +3,7 @@
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
             <a class="navbar-brand" href="{{url('/')}}">
                 <img src="{{asset("images/logotransp.png")}}" width="15%" height="15%" alt="">
+                <span class="brand-text ml-2" style="text-color:green">Klinik Pratama Margi Rahayu</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -1,4 +1,4 @@
-<div class="container-fluid bg-success text-light py-3">
+<div class="container-fluid bg-green text-light py-3">
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
@@ -20,10 +20,14 @@
             <div class="col-lg-3 col-md-6">
                 <h4 class="d-inline-block text-light text-uppercase border-bottom border-5 border-light border-secondary mb-2 mt-3">Kontak Kami</h4>
                 <div class="d-flex">
-                    <a class="btn btn-lg btn-lg-square rounded-circle me-2" href="#"><i class="fab fa-twitter text-light"></i></a>
+                    <a class="btn btn-lg btn-lg-square rounded-circle me-2" href="#"><i class="fab fa-whatsapp text-light"></i></a>
                     <a class="btn btn-lg btn-lg-square rounded-circle me-2" href="#"><i class="fab fa-facebook-f text-light"></i></a>
                     <a class="btn btn-lg btn-lg-square rounded-circle" href="https://www.instagram.com/klinikmargi/?hl=en"><i class="fab fa-instagram text-light"></i></a>
                 </div>
+            </div>
+            <div class="col-lg-3 d-none d-lg-block d-xl-block py-2">
+                <img src="{{asset("images/logotransp.png")}}" width="95%" height="95%" alt="">
+                <p class="text-white text-uppercase" style="font-size:x-large; font-weight:bold;">Klinik Pratama Margi Rahayu</p>
             </div>
         </div>
     </div>

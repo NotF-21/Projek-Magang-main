@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #13C5DD;
+    --primary: green;
     --secondary: #354F8E;
     --light: #EFF5F9;
     --dark: #1D2A4D;
@@ -280,4 +280,14 @@
     color: white;
     font-size: 35px;
     cursor: pointer;
+}
+
+.brand-text{
+    color: green;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.bg-green{
+    background-color: green;
 }

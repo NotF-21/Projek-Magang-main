@@ -18,9 +18,9 @@
     <div class="container-fluid py-3 px-5">
         <div class="row mb-2">
             <div class="col-12 justify-content-center d-flex">
-                <button type="button" id="prevugd" class="btn btn-info" onclick="prev();"><i class="fa fa-solid fa-arrow-left" style="color: #ffffff;"></i></button>
+                <button type="button" id="prevugd" class="btn btn-success" onclick="prev();"><i class="fa fa-solid fa-arrow-left" style="color: #ffffff;"></i></button>
                 <img id="expandedImg" src="{{asset("images/rj1.jpg")}}" alt="" width="50%">
-                <button type="button" id="nextugd" class="btn btn-info" onclick="next();"><i class="fa fa-solid fa-arrow-right" style="color: #ffffff;"></i></button>
+                <button type="button" id="nextugd" class="btn btn-success" onclick="next();"><i class="fa fa-solid fa-arrow-right" style="color: #ffffff;"></i></button>
             </div>
         </div>
         <div class="row mb-4 justify-content-center">
