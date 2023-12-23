@@ -7,7 +7,7 @@
         <div class="container py-5">
             <div class="row justify-content-end">
                 <div class="col-lg-8 text-center text-lg-start">
-                    <h5 class="d-inline-block text-white text-uppercase border-bottom border-5" style="border-color: rgba(256, 256, 256, .3) !important;">Selamat Datang di Klinik Margi Rahayu</h5>
+                    <h5 class="d-inline-block text-white text-uppercase border-bottom border-5" style="border-color: rgba(256, 256, 256, .3) !important;">Selamat Datang di Klinik Pratama Margi Rahayu</h5>
                     <h1 class="display-4 text-white mb-md-4"></h1>
                     <div class="pt-2">
                         <a href="{{url('tim-medis')}}" class="btn btn-light rounded-pill py-md-3 px-md-5 mx-2 shadow">Cari Dokter</a>
@@ -28,7 +28,7 @@
                 <div class="col-lg-7">
                     <div class="mb-4">
                         <h5 class="d-inline-block text-success text-uppercase border-bottom border-5"><a href="{{url('tentang-kami')}}" style="text-decoration: none; color:green">Tentang Kami</a></h5>
-                        <h1 class="display-4">Mengenal Klinik Margi Rahayu</h1>
+                        <h1 class="display-4">Mengenal Klinik Pratama Margi Rahayu</h1>
                     </div>
                     <p class="text-justify">Klinik Pratama Rawat Inap Margi Rahayu telah berdiri sejak tahun 1958 yang berawal dari rumah bersalin, balai pengobatan, balai kesehatan ibu dan anak. Lokasi dari klinik ini berada di Jalan Panglima Sudirman No.91, Pesanggrahan, Batu. Karena berlokasi di Batu yang merupakan tujuan dari destinasi para wisatawan, Batu menjadi pusat ramainya para turis yang ingin menikmati wisata alam maupun hiburan yang disediakan di sana. Dikarenakan banyaknya turis yang datang ke Batu maka diperlukan cara untuk mengatasi terbatasnya informasi tentang klinik atau sebuah pusat kesehatan untuk keadaan darurat.</p>
                     <div class="row g-3 pt-3">
@@ -105,7 +105,7 @@
                             <i class="fa fa-2x fa-pills text-white"></i>
                         </div>
                         <h4 class="mb-3">Vaksinasi</h4>
-                        <p class="m-0">Klinik Margi Rahayu menyediakan layanan vaksinasi untuk umum</p>
+                        <p class="m-0">Klinik Pratama Margi Rahayu menyediakan layanan vaksinasi untuk umum</p>
                         <a class="btn btn-lg btn-success rounded-pill" href="{{url('/layanan/vaksinasi')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>

@@ -8,7 +8,7 @@
         <div class="container py-5">
             <div class="row justify-content-end">
                 <div class="col-lg-8 text-center text-lg-start">
-                    <h3 class="d-inline-block text-white text-uppercase border-bottom border-5" style="border-color: rgba(256, 256, 256, .3) !important;">Layanan Klinik Margi Rahayu</h3>
+                    <h3 class="d-inline-block text-white text-uppercase border-bottom border-5" style="border-color: rgba(256, 256, 256, .3) !important;">Layanan Klinik Pratama Margi Rahayu</h3>
                     <p class=" text-white mb-md-4"><a class="text-white" href="{{url('/')}}">Beranda</a> > Hubungi Kami</p>
                 </div>
             </div>
@@ -18,7 +18,7 @@
     <div class="container-fluid py-5 hubungi-header justify-content-center">
         <div class="row justify-content-start">
             <div class="text-center mx-auto mb-5" style="max-width: 500px;">
-                <h2 class="d-inline-block text-light text-uppercase border-bottom border-5">Kontak Klinik Margi Rahayu</h2>
+                <h2 class="d-inline-block text-light text-uppercase border-bottom border-5">Kontak Klinik Pratama Margi Rahayu</h2>
             </div>
         </div>
         <div class="row px-3 text-center">
