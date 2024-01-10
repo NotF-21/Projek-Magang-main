@@ -24,137 +24,68 @@
             <div class="row my-5">
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <img class="mt-3 mb-4" src="{{asset("images/andrik.jpeg")}}" alt="" width="50%">
+                        <img class="mt-3 mb-4" src="{{asset("images/andrik.jpeg")}}" alt="" width="135vh" height="200vh">
                         <h4 class="mb-1">dr. Andri Kurniawan Junaidy</h4>
                         <p class="mb-2">Dokter Penanggung Jawab Klinik</p>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalDokter1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Dr Lorem</h4>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalDokter1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <img class="mt-3 mb-4" src="{{asset("images/ivani.jpg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">dr. Ivan Indrianto</h4>
+                        <p class="mb-2">Dokter Umum</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Dr Lorem</h4>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalDokter1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <img class="mt-3 mb-4" src="{{asset("images/dwis.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">drg. Dwi Saputro</h4>
+                        <p class="mb-2">Dokter Gigi</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Perawat Ipsum</h4>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalPerawat1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <img class="mt-3 mb-4" src="{{asset("images/eeni.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Een Indrawati S. Kep. Ns</h4>
+                        <p class="mb-2">Perawat</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-user text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Perawat Ipsum</h4>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalPerawat1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <img class="mt-3 mb-4" src="{{asset("images/ivat.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Iva Trikarya Kustia Ningrum, AMd. Kep</h4>
+                        <p class="mb-2">Perawat</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
-                        <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-solid fa-tooth text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Perawat Ipsum</h4>
-                        <a class="btn btn-lg btn-primary rounded-pill" href="#" data-toggle="modal" data-target="#modalPerawat1">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
+                        <img class="mt-3 mb-4" src="{{asset("images/harnal.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Sr. Harna Lumban Tobing, S. Kep, Ns</h4>
+                        <p class="mb-2">Perawat</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 my-4">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
+                        <img class="mt-3 mb-4" src="{{asset("images/dianp.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Dian Purnamasari, AMd.Keb</h4>
+                        <p class="mb-2">Bidan</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 my-4">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
+                        <img class="mt-3 mb-4" src="{{asset("images/mariad.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Maria De Gratis Mesakh, AMd.Keb</h4>
+                        <p class="mb-2">Bidan</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 my-4">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
+                        <img class="mt-3 mb-4" src="{{asset("images/nura.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Nur Afni Septianing Tyas, AMd.Keb</h4>
+                        <p class="mb-2">Bidan</p>
                     </div>
                 </div>
             </div>
-            <div class="row my-5 justify-content-center">
-                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img class="d-block mx-auto w-50" src="{{asset("images/andrik.jpeg")}}" alt="First slide">
-                            <h3 class="text-center mt-3">dr. Andri Kurniawan Junaidy</h3>
-                            <p class="text-center mt-2">Dokter Penanggung Jawab Klinik</p>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block mx-auto w-50" src="{{asset("images/andrik.jpeg")}}" alt="First slide">
-                            <h3 class="text-center mt-3">dr. Andri Kurniawan Junaidy</h3>
-                            <p class="text-center mt-2">Dokter Penanggung Jawab Klinik</p>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block mx-auto w-50" src="{{asset("images/andrik.jpeg")}}" alt="First slide">
-                            <h3 class="text-center mt-3">dr. Andri Kurniawan Junaidy</h3>
-                            <p class="text-center mt-2">Dokter Penanggung Jawab Klinik</p>
-                        </div>
-                    </div>
-                    <a class="carousel-control-prev my-auto" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next my-auto" href="#carouselExampleIndicators" role="button" data-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="sr-only">Next</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="modal fade" id="modalDokter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Dokter Lorem</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-            <div class="modal-body">
-                <p>Biografi Singkat Dokter Lorem</p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-        </div>
-    </div>
-
-    <div class="modal fade" id="modalPerawat1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Dokter Lorem</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-            <div class="modal-body">
-                <p>Biografi Singkat Perawat Ipsum</p>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
         </div>
     </div>
 
