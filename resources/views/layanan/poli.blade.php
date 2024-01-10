@@ -33,7 +33,7 @@
           </div>
         <div class="row justify-content-center d-flex mx-3 px-3">
             <h2 class="d-inline-block text-dark text-uppercase border-bottom border-5">Poligigi</h2>
-            <p class="mb-2 text-dark">Klinik Pratama Rawat Inap Margi Rahayu telah berdiri sejak tahun 1958 yang berawal dari rumah bersalin, balai pengobatan, balai kesehatan ibu dan anak. Lokasi dari klinik ini berada di Jalan Panglima Sudirman No.91, Pesanggrahan, Batu. Karena berlokasi di Batu yang merupakan tujuan dari destinasi para wisatawan, Batu menjadi pusat ramainya para turis yang ingin menikmati wisata alam maupun hiburan yang disediakan di sana. Dikarenakan banyaknya turis yang datang ke Batu maka diperlukan cara untuk mengatasi terbatasnya informasi tentang klinik atau sebuah pusat kesehatan untuk keadaan darurat.</p>
+            <p class="mb-2 text-dark">Klinik Pratama Margi Rahayu menyediakan layanan poligigi terbaik dengan peralatan canggih dan dokter gigi berpengalaman. Dengan fokus pada pencegahan, perawatan, dan estetika gigi, klinik ini memberikan pelayanan holistik untuk memastikan kesehatan gigi dan mulut yang optimal bagi setiap pasien.</p>
         </div>
     </div>
 
