@@ -4,6 +4,7 @@
             <a class="navbar-brand" href="{{url('/')}}">
                 <img src="{{asset("images/logotransp.png")}}" width="15%" height="15%" alt="">
                 <span class="brand-text ml-2" style="text-color:green">Klinik Pratama Margi Rahayu</span>
+                <img src="{{asset("images/bpjs.png")}}" width="15%" height="15%" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -16,8 +17,9 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Layanan</a>
                         <div class="dropdown-menu m-0">
                             <a href="{{url('/layanan/rawat-jalan')}}" class="dropdown-item">Rawat Jalan</a>
-                            <a href="{{url('/layanan/poligigi')}}" class="dropdown-item">Poligigi</a>
+                            <a href="{{url('/layanan/poli-gigi')}}" class="dropdown-item">Poli gigi</a>
                             <a href="{{url('/layanan/vaksinasi')}}" class="dropdown-item">Vaksinasi</a>
+                            <a href="{{url('/layanan/farmasi')}}" class="dropdown-item">Farmasi</a>
                             <a href="{{url('/layanan/uji-laboratorium')}}" class="dropdown-item">Uji Laboratorium</a>
                         </div>
                     </div>

@@ -27,7 +27,7 @@
             <div class="row gx-5">
                 <div class="col-lg-5 mb-5 mb-lg-0" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded" src="{{asset("images/tentang1.jpg")}}" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded" src="{{asset("images/tentang1.jpeg")}}" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -35,7 +35,7 @@
                         <h5 class="d-inline-block text-success text-uppercase border-bottom border-5"><a href="{{url('tentang-kami')}}" style="text-decoration: none; color:green">Tentang Kami</a></h5>
                         <h1 class="display-4">Mengenal Klinik Pratama Margi Rahayu</h1>
                     </div>
-                    <p class="text-justify">Klinik Pratama Rawat Inap Margi Rahayu telah berdiri sejak tahun 1958 yang berawal dari rumah bersalin, balai pengobatan, balai kesehatan ibu dan anak. Lokasi dari klinik ini berada di Jalan Panglima Sudirman No.91, Pesanggrahan, Batu. Karena berlokasi di Batu yang merupakan tujuan dari destinasi para wisatawan, Batu menjadi pusat ramainya para turis yang ingin menikmati wisata alam maupun hiburan yang disediakan di sana. Dikarenakan banyaknya turis yang datang ke Batu maka diperlukan cara untuk mengatasi terbatasnya informasi tentang klinik atau sebuah pusat kesehatan untuk keadaan darurat.</p>
+                    <p class="text-justify">Klinik Pratama Margi Rahayu telah berdiri sejak tahun 1958 yang berawal dari rumah bersalin, balai pengobatan, balai kesehatan ibu dan anak. Lokasi dari klinik ini berada di Jalan Panglima Sudirman No.91, Pesanggrahan, Batu. Karena berlokasi di Batu yang merupakan tujuan dari destinasi para wisatawan, Batu menjadi pusat ramainya para turis yang ingin menikmati wisata alam maupun hiburan yang disediakan di sana. Dikarenakan banyaknya turis yang datang ke Batu maka diperlukan cara untuk mengatasi terbatasnya informasi tentang klinik atau sebuah pusat kesehatan untuk keadaan darurat.</p>
                     <div class="row g-3 pt-3">
                         <div class="col-sm-3 col-6">
                             <a class="btn btn-light text-center rounded-circle py-4 shadow-sm w-100 h-100" href="{{url("tim-medis")}}" role="button">
@@ -49,8 +49,23 @@
                                 <h6 class="mb-0">Layanan<small class="d-block text-success">Laboratorium</small></h6>
                             </a>
                         </div>
+                        <div class="col-sm-3 col-6">
+                            <a class="btn btn-light text-center rounded-circle py-4 shadow-sm w-100 h-100" href="{{url('/layanan/farmasi')}}" role="button">
+                                <i class="fa fa-3x fa-pills text-success mb-3"></i>
+                                <h6 class="mb-0">Obat<small class="d-block text-success">Aman & Berkualitas</small></h6>
+                            </a>
+                        </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid py-5">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <img src="{{asset("images/bpjs.png")}}" alt="" width="50%" height="50%">
+                <h2 class="display-4" style="color: green">Klinik ini melayani seluruh pasien yang memiliki BPJS</h2>
             </div>
         </div>
     </div>
@@ -77,7 +92,7 @@
                 <div class="col-lg-4 col-md-6 my-4">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
                         <div class="service-icon mb-4">
-                            <i class="fa fa-2x fa-pills text-white"></i>
+                            <i class="fa fa-2x fa-syringe text-white"></i>
                         </div>
                         <h4 class="mb-3">Vaksinasi</h4>
                         <p class="m-0">Klinik Pratama Margi Rahayu menyediakan layanan vaksinasi untuk umum</p>
@@ -92,7 +107,7 @@
                             <i class="fa fa-2x fa-microscope text-white"></i>
                         </div>
                         <h4 class="mb-3">Uji Laboratorium</h4>
-                        <p class="m-0">Uji darah dan dapatkan hasilnya di Laboratorium kami</p>
+                        <p class="m-0">Uji darah dan dapatkan hasilnya di laboratorium kami</p>
                         <a class="btn btn-lg btn-success rounded-pill" href="{{url('/layanan/uji-laboratorium')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -104,8 +119,20 @@
                             <i class="fa fa-2x fa-solid fa-tooth text-white"></i>
                         </div>
                         <h4 class="mb-3">Poli Gigi</h4>
-                        <p class="m-0">Dapatkan Layanan Poligigi untuk merawat gigi Anda</p>
-                        <a class="btn btn-lg btn-success rounded-pill" href="{{url('/layanan/poligigi')}}">
+                        <p class="m-0">Dapatkan layanan poli gigi untuk merawat gigi Anda</p>
+                        <a class="btn btn-lg btn-success rounded-pill" href="{{url('/layanan/poli-gigi')}}">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 my-4">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
+                        <div class="service-icon mb-4">
+                            <i class="fa fa-2x fa-solid fa-pills text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Farmasi</h4>
+                        <p class="m-0">Dapatkan obat yang dapat dipercaya dari layanan farmasi kami</p>
+                        <a class="btn btn-lg btn-success rounded-pill" href="{{url('/layanan/farmasi')}}">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>

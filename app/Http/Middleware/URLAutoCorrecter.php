@@ -21,11 +21,10 @@ class URLAutoCorrecter
             '/hubungi-kami',
             '/tentang-kami',
             '/tim-medis',
-            '/layanan/unit-gawat-darurat',
-            '/layanan/rawat-inap',
             '/layanan/rawat-jalan',
-            '/layanan/poligigi',
+            '/layanan/poli-gigi',
             '/layanan/vaksinasi',
+            '/layanan/farmasi',
             '/layanan/uji-laboratorium',
         ];
 

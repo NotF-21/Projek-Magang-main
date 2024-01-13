@@ -24,8 +24,9 @@ Route::get('/tim-medis', [HomeController::class, 'getTim'])->name('get-tim');
 
 Route::group(['prefix' => 'layanan'],function(){
     Route::get('rawat-jalan', [HomeController::class, 'getrj'])->name('rj');
-    Route::get('poligigi', [HomeController::class, 'getPoli'])->name('poli');
+    Route::get('poli-gigi', [HomeController::class, 'getPoli'])->name('poli');
     Route::get('vaksinasi', [HomeController::class, 'getv'])->name('v');
+    Route::get('farmasi', [HomeController::class, 'getf'])->name('f');
     Route::get('uji-laboratorium', [HomeController::class, 'getLab'])->name('lab');
 });
 

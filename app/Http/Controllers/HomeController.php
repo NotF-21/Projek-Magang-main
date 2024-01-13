@@ -19,14 +19,6 @@ class HomeController extends Controller
         return view('tentang');
     }
 
-    public function getUGD() {
-        return view('layanan.ugd');
-    }
-
-    public function getri() {
-        return view('layanan.ri');
-    }
-
     public function getrj() {
         return view('layanan.rj');
     }
@@ -37,6 +29,10 @@ class HomeController extends Controller
 
     public function getv() {
         return view('layanan.vaksin');
+    }
+
+    public function getf() {
+        return view('layanan.farmasi');
     }
 
     public function getLab() {

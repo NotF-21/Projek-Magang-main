@@ -85,6 +85,13 @@
                         <p class="mb-2">Bidan</p>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 my-4">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center shadow">
+                        <img class="mt-3 mb-4" src="{{asset("images/kartikaf.jpeg")}}" alt="" width="135vh" height="200vh">
+                        <h4 class="mb-3">Kartika Febrianti, Sr. Farm</h4>
+                        <p class="mb-2">Apoteker</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
